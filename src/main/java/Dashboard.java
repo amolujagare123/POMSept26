@@ -17,4 +17,6 @@ public class Dashboard {
         customers.click();
     }
 
+
+    // dahsboard demo
 }
