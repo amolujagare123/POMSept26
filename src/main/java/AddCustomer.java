@@ -14,6 +14,9 @@ public class AddCustomer {
     @FindBy(id = "f_name")
     WebElement txtName;
 
+    // java selenium
+
+
     @FindBy(id = "f_email")
     WebElement txtEmail;
 
